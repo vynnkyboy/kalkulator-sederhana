@@ -1,0 +1,78 @@
+body {
+    background: #dddddd;
+    font-family: sans-serif;
+}
+
+.kalkulator {
+    width: 335px;
+    background: #1d3350;
+    margin: 100px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px 0px;
+}
+
+.bil {
+    width: 300px;
+    margin: 5px;
+    border: none;
+    font-size: 16pt;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.opt {
+    font-size: 16pt;
+    border: none;
+    width: 215px;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.tombol {
+    background: #4d88d5;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: #eee;
+    font-size: 15px;
+    border-bottom: 4px solid #3b6baa;
+}
+
+.tombol {
+    background: #4d88d5;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: #eee;
+    font-size: 15px;
+    border-bottom: 4px solid #3b6baa;
+}
+
+.reset {
+    background: #c42e2e;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: #eee;
+    font-size: 15px;
+    border-bottom: 4px solid #852222;
+    width: 300px;
+    margin: 5px;
+    font-size: 16pt;
+    padding: 10px;
+}
+
+.judul {
+    text-align: center;
+    color: #eee;
+    font-weight: normal;
+}
